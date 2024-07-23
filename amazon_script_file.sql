@@ -9,6 +9,7 @@ select * from product;
 ALTER TABLE product
 DROP COLUMN timeofday;
 
+--updated product table
 UPDATE product
 SET timeofday =
     CASE
@@ -46,10 +47,13 @@ select * from product;
 -- BUSINESS QUESTIONS TO ANSWER 
 -- 1) what is the count of distinct cities in dataset
 select count(distinct city) as distinct_city from amazon.amazon;
+
 -- 2) For each branch, what is the corresponding city?
 select Branch,city from amazon.amazon group by Branch,city;
+
 -- 3) What is the count of distinct product lines in the dataset?
 select count(distinct `Product line`) as distinct_product_line from amazon.amazon;
+
 -- 4) Which payment method occurs most frequently?
 select Payment, count(Payment) as mode_of_payment from amazon.amazon group by Payment limit 1;
 
