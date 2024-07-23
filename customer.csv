@@ -1,0 +1,1001 @@
+Invoice ID,Branch,City,Customer type,Gender,Payment
+750-67-8428,A,Yangon,Member,Female,Ewallet
+226-31-3081,C,Naypyitaw,Normal,Female,Cash
+631-41-3108,A,Yangon,Normal,Male,Credit card
+123-19-1176,A,Yangon,Member,Male,Ewallet
+373-73-7910,A,Yangon,Normal,Male,Ewallet
+699-14-3026,C,Naypyitaw,Normal,Male,Ewallet
+355-53-5943,A,Yangon,Member,Female,Ewallet
+315-22-5665,C,Naypyitaw,Normal,Female,Ewallet
+665-32-9167,A,Yangon,Member,Female,Credit card
+692-92-5582,B,Mandalay,Member,Female,Credit card
+351-62-0822,B,Mandalay,Member,Female,Ewallet
+529-56-3974,B,Mandalay,Member,Male,Cash
+365-64-0515,A,Yangon,Normal,Female,Ewallet
+252-56-2699,A,Yangon,Normal,Male,Ewallet
+829-34-3910,A,Yangon,Normal,Female,Cash
+299-46-1805,B,Mandalay,Member,Female,Cash
+656-95-9349,A,Yangon,Member,Female,Credit card
+765-26-6951,A,Yangon,Normal,Male,Credit card
+329-62-1586,A,Yangon,Normal,Male,Credit card
+319-50-3348,B,Mandalay,Normal,Female,Ewallet
+300-71-4605,C,Naypyitaw,Member,Male,Ewallet
+371-85-5789,B,Mandalay,Normal,Male,Ewallet
+273-16-6619,B,Mandalay,Normal,Male,Credit card
+636-48-8204,A,Yangon,Normal,Male,Ewallet
+549-59-1358,A,Yangon,Member,Male,Ewallet
+227-03-5010,A,Yangon,Member,Female,Credit card
+649-29-6775,B,Mandalay,Normal,Male,Cash
+189-17-4241,A,Yangon,Normal,Female,Credit card
+145-94-9061,B,Mandalay,Normal,Female,Cash
+848-62-7243,A,Yangon,Normal,Male,Cash
+871-79-8483,B,Mandalay,Normal,Male,Credit card
+149-71-6266,B,Mandalay,Member,Male,Cash
+640-49-2076,B,Mandalay,Normal,Male,Cash
+595-11-5460,A,Yangon,Normal,Male,Credit card
+183-56-6882,C,Naypyitaw,Member,Female,Ewallet
+232-16-2483,C,Naypyitaw,Member,Female,Ewallet
+129-29-8530,A,Yangon,Member,Male,Ewallet
+272-65-1806,A,Yangon,Normal,Female,Ewallet
+333-73-7901,C,Naypyitaw,Normal,Female,Ewallet
+777-82-7220,B,Mandalay,Member,Male,Cash
+280-35-5823,B,Mandalay,Member,Female,Ewallet
+554-53-8700,C,Naypyitaw,Member,Male,Cash
+354-25-5821,B,Mandalay,Member,Female,Cash
+228-96-1411,C,Naypyitaw,Member,Female,Cash
+617-15-4209,C,Naypyitaw,Member,Male,Cash
+132-32-9879,B,Mandalay,Member,Female,Cash
+370-41-7321,B,Mandalay,Member,Male,Credit card
+727-46-3608,B,Mandalay,Member,Female,Ewallet
+669-54-1719,B,Mandalay,Member,Male,Credit card
+574-22-5561,C,Naypyitaw,Member,Female,Ewallet
+326-78-5178,C,Naypyitaw,Member,Male,Cash
+162-48-8011,A,Yangon,Member,Female,Cash
+616-24-2851,B,Mandalay,Member,Female,Ewallet
+778-71-5554,C,Naypyitaw,Member,Male,Credit card
+242-55-6721,B,Mandalay,Normal,Male,Ewallet
+399-46-5918,C,Naypyitaw,Normal,Female,Cash
+106-35-6779,A,Yangon,Member,Male,Cash
+635-40-6220,A,Yangon,Normal,Male,Ewallet
+817-48-8732,A,Yangon,Member,Female,Cash
+120-06-4233,C,Naypyitaw,Normal,Male,Cash
+285-68-5083,C,Naypyitaw,Member,Female,Credit card
+803-83-5989,C,Naypyitaw,Normal,Male,Ewallet
+347-34-2234,B,Mandalay,Member,Female,Ewallet
+199-75-8169,A,Yangon,Member,Male,Credit card
+853-23-2453,B,Mandalay,Member,Male,Cash
+877-22-3308,A,Yangon,Member,Male,Cash
+838-78-4295,C,Naypyitaw,Normal,Female,Ewallet
+109-28-2512,B,Mandalay,Member,Female,Ewallet
+232-11-3025,A,Yangon,Normal,Male,Cash
+382-03-4532,A,Yangon,Member,Female,Cash
+393-65-2792,C,Naypyitaw,Normal,Male,Credit card
+796-12-2025,C,Naypyitaw,Normal,Male,Cash
+510-95-6347,B,Mandalay,Member,Female,Ewallet
+841-35-6630,C,Naypyitaw,Normal,Female,Cash
+287-21-9091,A,Yangon,Normal,Male,Ewallet
+732-94-0499,C,Naypyitaw,Normal,Female,Credit card
+263-10-3913,C,Naypyitaw,Member,Male,Credit card
+381-20-0914,A,Yangon,Member,Female,Credit card
+829-49-1914,C,Naypyitaw,Member,Female,Ewallet
+756-01-7507,C,Naypyitaw,Normal,Female,Cash
+870-72-4431,C,Naypyitaw,Normal,Female,Credit card
+847-38-7188,B,Mandalay,Normal,Female,Ewallet
+480-63-2856,C,Naypyitaw,Normal,Male,Ewallet
+787-56-0757,C,Naypyitaw,Member,Female,Credit card
+360-39-5055,C,Naypyitaw,Member,Male,Cash
+730-50-9884,C,Naypyitaw,Normal,Female,Ewallet
+362-58-8315,C,Naypyitaw,Normal,Male,Cash
+633-44-8566,A,Yangon,Member,Male,Credit card
+504-35-8843,A,Yangon,Normal,Male,Cash
+318-68-5053,B,Mandalay,Normal,Female,Cash
+565-80-5980,C,Naypyitaw,Member,Female,Cash
+225-32-0908,C,Naypyitaw,Normal,Female,Ewallet
+873-51-0671,A,Yangon,Member,Female,Ewallet
+152-08-9985,B,Mandalay,Member,Male,Credit card
+512-91-0811,C,Naypyitaw,Normal,Male,Credit card
+594-34-4444,A,Yangon,Normal,Male,Ewallet
+766-85-7061,B,Mandalay,Normal,Male,Ewallet
+871-39-9221,C,Naypyitaw,Normal,Female,Cash
+865-92-6136,A,Yangon,Normal,Male,Ewallet
+733-01-9107,B,Mandalay,Normal,Male,Cash
+163-56-7055,C,Naypyitaw,Member,Male,Cash
+189-98-2939,C,Naypyitaw,Normal,Male,Cash
+551-21-3069,C,Naypyitaw,Normal,Female,Cash
+212-62-1842,A,Yangon,Normal,Male,Cash
+716-39-1409,B,Mandalay,Normal,Male,Cash
+704-48-3927,A,Yangon,Member,Male,Ewallet
+628-34-3388,C,Naypyitaw,Normal,Male,Credit card
+630-74-5166,A,Yangon,Normal,Male,Cash
+588-01-7461,C,Naypyitaw,Normal,Female,Cash
+861-77-0145,C,Naypyitaw,Member,Male,Cash
+479-26-8945,B,Mandalay,Member,Female,Ewallet
+210-67-5886,C,Naypyitaw,Member,Female,Credit card
+227-78-1148,B,Mandalay,Normal,Female,Cash
+645-44-1170,A,Yangon,Member,Male,Ewallet
+237-01-6122,C,Naypyitaw,Member,Female,Credit card
+225-98-1496,C,Naypyitaw,Normal,Female,Credit card
+291-32-1427,B,Mandalay,Member,Male,Ewallet
+659-65-8956,B,Mandalay,Member,Male,Ewallet
+642-32-2990,A,Yangon,Normal,Female,Ewallet
+378-24-2715,B,Mandalay,Normal,Male,Ewallet
+638-60-7125,A,Yangon,Normal,Female,Credit card
+659-36-1684,C,Naypyitaw,Member,Male,Credit card
+219-22-9386,B,Mandalay,Member,Male,Credit card
+336-78-2147,C,Naypyitaw,Member,Male,Credit card
+268-27-6179,B,Mandalay,Member,Female,Ewallet
+668-90-8900,A,Yangon,Normal,Female,Credit card
+870-54-3162,A,Yangon,Normal,Female,Cash
+189-08-9157,C,Naypyitaw,Normal,Female,Credit card
+663-86-9076,C,Naypyitaw,Member,Female,Ewallet
+549-84-7482,B,Mandalay,Normal,Female,Ewallet
+191-10-6171,B,Mandalay,Normal,Female,Cash
+802-70-5316,A,Yangon,Member,Female,Cash
+695-51-0018,B,Mandalay,Normal,Female,Cash
+590-83-4591,B,Mandalay,Member,Male,Credit card
+483-71-1164,C,Naypyitaw,Normal,Female,Ewallet
+597-78-7908,C,Naypyitaw,Normal,Male,Cash
+700-81-1757,A,Yangon,Normal,Female,Credit card
+354-39-5160,A,Yangon,Member,Female,Cash
+241-72-9525,B,Mandalay,Normal,Male,Cash
+575-30-8091,A,Yangon,Normal,Male,Ewallet
+731-81-9469,C,Naypyitaw,Member,Female,Credit card
+280-17-4359,C,Naypyitaw,Member,Male,Cash
+338-65-2210,C,Naypyitaw,Member,Female,Cash
+488-25-4221,C,Naypyitaw,Member,Female,Credit card
+239-10-7476,A,Yangon,Normal,Female,Ewallet
+458-41-1477,C,Naypyitaw,Normal,Female,Credit card
+685-64-1609,A,Yangon,Member,Female,Ewallet
+568-90-5112,C,Naypyitaw,Normal,Male,Credit card
+262-47-2794,B,Mandalay,Member,Male,Credit card
+238-49-0436,A,Yangon,Normal,Male,Credit card
+608-96-3517,B,Mandalay,Member,Female,Credit card
+584-86-7256,C,Naypyitaw,Member,Male,Credit card
+746-94-0204,A,Yangon,Normal,Male,Credit card
+214-17-6927,C,Naypyitaw,Normal,Female,Ewallet
+400-89-4171,C,Naypyitaw,Normal,Female,Cash
+782-95-9291,A,Yangon,Member,Male,Credit card
+279-74-2924,B,Mandalay,Member,Male,Cash
+307-85-2293,B,Mandalay,Normal,Male,Ewallet
+743-04-1105,B,Mandalay,Member,Male,Ewallet
+423-57-2993,B,Mandalay,Normal,Male,Ewallet
+894-41-5205,C,Naypyitaw,Normal,Female,Credit card
+275-28-0149,A,Yangon,Normal,Male,Cash
+101-17-6199,A,Yangon,Normal,Male,Credit card
+423-80-0988,C,Naypyitaw,Normal,Male,Ewallet
+548-46-9322,B,Mandalay,Normal,Male,Credit card
+505-02-0892,B,Mandalay,Member,Male,Ewallet
+234-65-2137,C,Naypyitaw,Normal,Male,Cash
+687-47-8271,A,Yangon,Normal,Male,Credit card
+796-32-9050,A,Yangon,Normal,Male,Cash
+105-31-1824,A,Yangon,Member,Male,Credit card
+249-42-3782,A,Yangon,Normal,Male,Ewallet
+316-55-4634,B,Mandalay,Member,Male,Credit card
+733-33-4967,C,Naypyitaw,Normal,Male,Cash
+608-27-6295,B,Mandalay,Member,Male,Credit card
+414-12-7047,B,Mandalay,Normal,Male,Ewallet
+827-26-2100,A,Yangon,Member,Male,Ewallet
+175-54-2529,A,Yangon,Member,Male,Credit card
+139-52-2867,C,Naypyitaw,Normal,Female,Credit card
+407-63-8975,A,Yangon,Normal,Male,Ewallet
+342-65-4817,C,Naypyitaw,Member,Male,Ewallet
+130-98-8941,C,Naypyitaw,Normal,Male,Cash
+434-83-9547,C,Naypyitaw,Member,Male,Cash
+851-28-6367,A,Yangon,Member,Male,Ewallet
+824-88-3614,C,Naypyitaw,Normal,Male,Ewallet
+586-25-0848,A,Yangon,Normal,Female,Credit card
+895-66-0685,B,Mandalay,Member,Male,Ewallet
+305-14-0245,B,Mandalay,Member,Female,Ewallet
+732-04-5373,B,Mandalay,Member,Male,Cash
+400-60-7251,A,Yangon,Normal,Male,Ewallet
+593-65-1552,C,Naypyitaw,Normal,Female,Credit card
+284-34-9626,B,Mandalay,Normal,Female,Credit card
+437-58-8131,B,Mandalay,Normal,Female,Ewallet
+286-43-6208,C,Naypyitaw,Normal,Female,Cash
+641-43-2399,B,Mandalay,Normal,Male,Ewallet
+831-07-6050,A,Yangon,Normal,Male,Credit card
+556-86-3144,C,Naypyitaw,Member,Female,Cash
+848-24-9445,C,Naypyitaw,Member,Male,Cash
+856-22-8149,A,Yangon,Normal,Female,Ewallet
+699-01-4164,C,Naypyitaw,Normal,Male,Credit card
+420-11-4919,C,Naypyitaw,Member,Female,Credit card
+606-80-4905,C,Naypyitaw,Member,Female,Credit card
+542-41-0513,B,Mandalay,Member,Female,Cash
+426-39-2418,C,Naypyitaw,Normal,Male,Cash
+875-46-5808,B,Mandalay,Member,Male,Ewallet
+394-43-4238,B,Mandalay,Member,Male,Credit card
+749-24-1565,A,Yangon,Normal,Female,Ewallet
+672-51-8681,C,Naypyitaw,Member,Female,Credit card
+263-87-5680,C,Naypyitaw,Member,Female,Ewallet
+573-58-9734,B,Mandalay,Normal,Female,Ewallet
+817-69-8206,B,Mandalay,Normal,Female,Credit card
+888-02-0338,A,Yangon,Normal,Male,Ewallet
+677-11-0152,C,Naypyitaw,Normal,Female,Cash
+142-63-6033,B,Mandalay,Normal,Male,Ewallet
+656-16-1063,B,Mandalay,Normal,Male,Credit card
+891-58-8335,B,Mandalay,Member,Female,Cash
+802-43-8934,A,Yangon,Normal,Male,Credit card
+560-30-5617,B,Mandalay,Normal,Female,Cash
+319-74-2561,A,Yangon,Member,Female,Cash
+549-03-9315,B,Mandalay,Normal,Male,Ewallet
+790-29-1172,B,Mandalay,Normal,Female,Credit card
+239-36-3640,B,Mandalay,Normal,Male,Ewallet
+468-01-2051,B,Mandalay,Normal,Male,Ewallet
+389-25-3394,C,Naypyitaw,Normal,Male,Cash
+279-62-1445,C,Naypyitaw,Member,Female,Cash
+213-72-6612,A,Yangon,Normal,Male,Cash
+746-68-6593,C,Naypyitaw,Member,Female,Credit card
+836-82-5858,B,Mandalay,Member,Male,Ewallet
+583-72-1480,C,Naypyitaw,Member,Male,Ewallet
+466-61-5506,B,Mandalay,Member,Female,Cash
+721-86-6247,A,Yangon,Normal,Female,Ewallet
+289-65-5721,B,Mandalay,Normal,Female,Cash
+545-46-3100,B,Mandalay,Member,Female,Credit card
+418-02-5978,B,Mandalay,Normal,Female,Cash
+269-04-5750,B,Mandalay,Member,Male,Cash
+157-13-5295,A,Yangon,Member,Male,Ewallet
+645-78-8093,A,Yangon,Normal,Female,Ewallet
+211-30-9270,C,Naypyitaw,Normal,Male,Credit card
+755-12-3214,C,Naypyitaw,Member,Female,Credit card
+346-84-3103,B,Mandalay,Member,Female,Cash
+478-06-7835,A,Yangon,Normal,Male,Ewallet
+540-11-4336,A,Yangon,Normal,Male,Credit card
+448-81-5016,A,Yangon,Normal,Male,Credit card
+142-72-4741,C,Naypyitaw,Member,Male,Credit card
+217-58-1179,A,Yangon,Member,Male,Cash
+376-02-8238,B,Mandalay,Normal,Male,Credit card
+530-90-9855,A,Yangon,Member,Male,Cash
+866-05-7563,B,Mandalay,Member,Female,Cash
+604-70-6476,A,Yangon,Member,Male,Ewallet
+799-71-1548,A,Yangon,Member,Male,Credit card
+785-13-7708,B,Mandalay,Normal,Male,Credit card
+845-51-0542,B,Mandalay,Member,Male,Ewallet
+662-47-5456,C,Naypyitaw,Member,Male,Credit card
+883-17-4236,C,Naypyitaw,Normal,Female,Credit card
+290-68-2984,A,Yangon,Normal,Male,Cash
+704-11-6354,A,Yangon,Member,Male,Cash
+110-48-7033,B,Mandalay,Member,Male,Cash
+366-93-0948,A,Yangon,Member,Male,Credit card
+729-09-9681,A,Yangon,Member,Male,Ewallet
+151-16-1484,A,Yangon,Member,Male,Ewallet
+380-94-4661,C,Naypyitaw,Member,Male,Credit card
+850-41-9669,A,Yangon,Normal,Female,Ewallet
+821-07-3596,C,Naypyitaw,Normal,Female,Ewallet
+655-85-5130,B,Mandalay,Member,Female,Cash
+447-15-7839,A,Yangon,Member,Female,Cash
+154-74-7179,B,Mandalay,Normal,Male,Ewallet
+253-12-6086,A,Yangon,Member,Female,Credit card
+808-65-0703,C,Naypyitaw,Normal,Male,Credit card
+571-94-0759,B,Mandalay,Member,Female,Cash
+144-51-6085,A,Yangon,Member,Male,Credit card
+731-14-2199,A,Yangon,Member,Female,Ewallet
+783-09-1637,B,Mandalay,Normal,Female,Ewallet
+687-15-1097,C,Naypyitaw,Member,Female,Cash
+126-54-1082,A,Yangon,Member,Female,Credit card
+633-91-1052,A,Yangon,Normal,Female,Cash
+477-24-6490,B,Mandalay,Normal,Female,Ewallet
+566-19-5475,B,Mandalay,Normal,Male,Cash
+526-86-8552,C,Naypyitaw,Member,Female,Cash
+376-56-3573,C,Naypyitaw,Normal,Female,Ewallet
+537-72-0426,C,Naypyitaw,Member,Male,Cash
+828-61-5674,A,Yangon,Member,Male,Credit card
+136-08-6195,A,Yangon,Normal,Female,Credit card
+523-38-0215,C,Naypyitaw,Normal,Male,Credit card
+490-29-1201,A,Yangon,Normal,Female,Cash
+667-92-0055,A,Yangon,Member,Male,Ewallet
+565-17-3836,A,Yangon,Member,Female,Cash
+498-41-1961,B,Mandalay,Normal,Male,Cash
+593-95-4461,C,Naypyitaw,Member,Male,Cash
+226-71-3580,C,Naypyitaw,Normal,Female,Cash
+283-79-9594,B,Mandalay,Normal,Female,Credit card
+430-60-3493,A,Yangon,Member,Female,Cash
+139-20-0155,B,Mandalay,Member,Male,Credit card
+558-80-4082,C,Naypyitaw,Normal,Male,Ewallet
+278-97-7759,A,Yangon,Member,Female,Cash
+316-68-6352,A,Yangon,Member,Female,Cash
+585-03-5943,B,Mandalay,Normal,Male,Ewallet
+211-05-0490,C,Naypyitaw,Member,Female,Cash
+727-75-6477,C,Naypyitaw,Normal,Male,Cash
+744-02-5987,A,Yangon,Member,Male,Ewallet
+307-83-9164,A,Yangon,Member,Male,Cash
+779-06-0012,C,Naypyitaw,Member,Female,Cash
+446-47-6729,C,Naypyitaw,Normal,Male,Credit card
+573-10-3877,B,Mandalay,Member,Male,Credit card
+735-06-4124,C,Naypyitaw,Normal,Male,Cash
+439-54-7422,A,Yangon,Normal,Female,Credit card
+396-90-2219,B,Mandalay,Normal,Female,Cash
+411-77-0180,A,Yangon,Member,Male,Ewallet
+286-01-5402,A,Yangon,Normal,Female,Cash
+803-17-8013,A,Yangon,Member,Female,Cash
+512-98-1403,A,Yangon,Member,Female,Ewallet
+848-42-2560,A,Yangon,Normal,Female,Cash
+532-59-7201,B,Mandalay,Member,Male,Cash
+181-94-6432,C,Naypyitaw,Member,Male,Ewallet
+870-76-1733,A,Yangon,Member,Female,Credit card
+423-64-4619,A,Yangon,Member,Female,Cash
+227-07-4446,C,Naypyitaw,Member,Female,Cash
+174-36-3675,C,Naypyitaw,Member,Male,Cash
+428-83-5800,C,Naypyitaw,Member,Female,Cash
+603-07-0961,C,Naypyitaw,Member,Male,Cash
+704-20-4138,C,Naypyitaw,Member,Female,Credit card
+787-15-1757,C,Naypyitaw,Member,Male,Ewallet
+649-11-3678,C,Naypyitaw,Normal,Female,Cash
+622-20-1945,C,Naypyitaw,Normal,Female,Cash
+372-94-8041,A,Yangon,Normal,Male,Ewallet
+563-91-7120,A,Yangon,Normal,Female,Cash
+746-54-5508,A,Yangon,Normal,Male,Credit card
+276-54-0879,B,Mandalay,Normal,Male,Ewallet
+815-11-1168,A,Yangon,Member,Male,Cash
+719-76-3868,C,Naypyitaw,Member,Male,Cash
+730-61-8757,B,Mandalay,Member,Male,Credit card
+340-66-0321,A,Yangon,Member,Male,Cash
+868-81-1752,B,Mandalay,Normal,Male,Cash
+634-97-8956,A,Yangon,Normal,Male,Credit card
+566-71-1091,A,Yangon,Normal,Male,Cash
+442-48-3607,A,Yangon,Member,Male,Credit card
+835-16-0096,C,Naypyitaw,Member,Male,Ewallet
+527-09-6272,A,Yangon,Member,Female,Credit card
+898-04-2717,A,Yangon,Normal,Male,Ewallet
+692-27-8933,B,Mandalay,Normal,Female,Cash
+633-09-3463,C,Naypyitaw,Normal,Female,Credit card
+374-17-3652,B,Mandalay,Member,Female,Credit card
+378-07-7001,B,Mandalay,Member,Male,Credit card
+433-75-6987,B,Mandalay,Member,Female,Ewallet
+873-95-4984,B,Mandalay,Member,Female,Cash
+416-13-5917,C,Naypyitaw,Normal,Female,Ewallet
+150-89-8043,A,Yangon,Normal,Male,Cash
+135-84-8019,A,Yangon,Normal,Female,Ewallet
+441-94-7118,A,Yangon,Member,Male,Cash
+725-96-3778,C,Naypyitaw,Member,Female,Cash
+531-80-1784,A,Yangon,Normal,Male,Cash
+400-45-1220,B,Mandalay,Normal,Female,Credit card
+860-79-0874,C,Naypyitaw,Member,Female,Credit card
+834-61-8124,A,Yangon,Normal,Male,Cash
+115-99-4379,B,Mandalay,Member,Female,Credit card
+565-67-6697,B,Mandalay,Member,Male,Cash
+320-49-6392,C,Naypyitaw,Normal,Female,Cash
+889-04-9723,B,Mandalay,Member,Female,Credit card
+632-90-0281,C,Naypyitaw,Normal,Female,Credit card
+554-42-2417,C,Naypyitaw,Normal,Female,Cash
+453-63-6187,B,Mandalay,Normal,Male,Ewallet
+578-80-7669,B,Mandalay,Normal,Male,Cash
+612-36-5536,A,Yangon,Member,Male,Credit card
+605-72-4132,C,Naypyitaw,Normal,Female,Cash
+471-41-2823,C,Naypyitaw,Normal,Male,Ewallet
+462-67-9126,A,Yangon,Normal,Male,Cash
+272-27-9238,C,Naypyitaw,Normal,Female,Cash
+834-25-9262,C,Naypyitaw,Normal,Female,Cash
+122-61-9553,C,Naypyitaw,Normal,Female,Cash
+468-88-0009,A,Yangon,Member,Male,Cash
+613-59-9758,C,Naypyitaw,Normal,Female,Cash
+254-31-0042,A,Yangon,Member,Male,Credit card
+201-86-2184,B,Mandalay,Member,Female,Cash
+261-12-8671,B,Mandalay,Normal,Female,Credit card
+730-70-9830,C,Naypyitaw,Normal,Female,Ewallet
+382-25-8917,C,Naypyitaw,Normal,Male,Cash
+422-29-8786,A,Yangon,Normal,Female,Credit card
+667-23-5919,A,Yangon,Member,Female,Ewallet
+843-01-4703,B,Mandalay,Member,Female,Credit card
+743-88-1662,C,Naypyitaw,Normal,Male,Ewallet
+595-86-2894,C,Naypyitaw,Member,Male,Ewallet
+182-69-8360,B,Mandalay,Normal,Female,Credit card
+289-15-7034,A,Yangon,Member,Male,Credit card
+462-78-5240,C,Naypyitaw,Normal,Female,Cash
+868-52-7573,B,Mandalay,Normal,Female,Cash
+153-58-4872,C,Naypyitaw,Member,Female,Ewallet
+662-72-2873,A,Yangon,Normal,Female,Ewallet
+525-88-7307,B,Mandalay,Member,Male,Cash
+689-16-9784,C,Naypyitaw,Normal,Male,Cash
+725-56-0833,A,Yangon,Normal,Female,Credit card
+394-41-0748,C,Naypyitaw,Member,Female,Ewallet
+596-42-3999,B,Mandalay,Normal,Male,Credit card
+541-89-9860,C,Naypyitaw,Member,Female,Cash
+173-82-9529,B,Mandalay,Normal,Female,Cash
+563-36-9814,A,Yangon,Member,Male,Ewallet
+308-47-4913,A,Yangon,Member,Female,Credit card
+885-17-6250,A,Yangon,Normal,Female,Ewallet
+726-27-2396,A,Yangon,Normal,Female,Ewallet
+316-01-3952,A,Yangon,Normal,Female,Ewallet
+760-54-1821,B,Mandalay,Normal,Male,Cash
+793-10-3222,B,Mandalay,Member,Female,Credit card
+346-12-3257,B,Mandalay,Member,Male,Cash
+110-05-6330,C,Naypyitaw,Normal,Female,Credit card
+651-61-0874,C,Naypyitaw,Normal,Male,Credit card
+236-86-3015,C,Naypyitaw,Member,Male,Ewallet
+831-64-0259,B,Mandalay,Normal,Female,Ewallet
+587-03-7455,C,Naypyitaw,Member,Female,Ewallet
+882-40-4577,A,Yangon,Member,Male,Credit card
+732-67-5346,A,Yangon,Normal,Male,Credit card
+725-32-9708,B,Mandalay,Member,Female,Cash
+256-08-8343,A,Yangon,Normal,Female,Ewallet
+372-26-1506,C,Naypyitaw,Normal,Female,Ewallet
+244-08-0162,B,Mandalay,Normal,Female,Cash
+569-71-4390,B,Mandalay,Normal,Male,Ewallet
+132-23-6451,A,Yangon,Member,Male,Cash
+696-90-2548,A,Yangon,Normal,Male,Ewallet
+472-15-9636,A,Yangon,Normal,Male,Ewallet
+268-03-6164,B,Mandalay,Normal,Male,Ewallet
+750-57-9686,C,Naypyitaw,Normal,Female,Credit card
+186-09-3669,C,Naypyitaw,Member,Female,Ewallet
+848-07-1692,B,Mandalay,Normal,Female,Ewallet
+745-71-3520,A,Yangon,Member,Female,Cash
+266-76-6436,C,Naypyitaw,Member,Female,Ewallet
+740-22-2500,C,Naypyitaw,Normal,Female,Cash
+271-88-8734,C,Naypyitaw,Member,Female,Credit card
+301-81-8610,B,Mandalay,Member,Male,Credit card
+489-64-4354,C,Naypyitaw,Normal,Male,Cash
+198-84-7132,B,Mandalay,Member,Male,Cash
+269-10-8440,A,Yangon,Member,Male,Cash
+650-98-6268,B,Mandalay,Member,Female,Credit card
+741-73-3559,B,Mandalay,Normal,Male,Cash
+325-77-6186,A,Yangon,Member,Female,Ewallet
+286-75-7818,B,Mandalay,Normal,Male,Credit card
+574-57-9721,C,Naypyitaw,Normal,Male,Ewallet
+459-50-7686,A,Yangon,Normal,Female,Ewallet
+616-87-0016,B,Mandalay,Normal,Male,Credit card
+837-55-7229,B,Mandalay,Normal,Female,Credit card
+751-69-0068,C,Naypyitaw,Normal,Male,Ewallet
+257-73-1380,C,Naypyitaw,Member,Male,Ewallet
+345-08-4992,A,Yangon,Normal,Male,Credit card
+549-96-4200,C,Naypyitaw,Member,Male,Ewallet
+810-60-6344,C,Naypyitaw,Normal,Female,Credit card
+450-28-2866,C,Naypyitaw,Member,Male,Cash
+394-30-3170,B,Mandalay,Member,Female,Credit card
+138-17-5109,A,Yangon,Member,Female,Credit card
+192-98-7397,C,Naypyitaw,Normal,Male,Ewallet
+301-11-9629,A,Yangon,Normal,Female,Cash
+390-80-5128,B,Mandalay,Member,Female,Credit card
+235-46-8343,C,Naypyitaw,Member,Male,Credit card
+453-12-7053,C,Naypyitaw,Normal,Male,Credit card
+296-11-7041,B,Mandalay,Member,Female,Credit card
+449-27-2918,B,Mandalay,Member,Female,Credit card
+891-01-7034,B,Mandalay,Normal,Female,Cash
+744-09-5786,B,Mandalay,Normal,Male,Cash
+727-17-0390,A,Yangon,Normal,Female,Ewallet
+568-88-3448,A,Yangon,Normal,Male,Ewallet
+187-83-5490,A,Yangon,Member,Male,Cash
+767-54-1907,B,Mandalay,Member,Female,Cash
+710-46-4433,B,Mandalay,Member,Female,Credit card
+533-33-5337,B,Mandalay,Normal,Male,Cash
+325-90-8763,C,Naypyitaw,Member,Female,Cash
+729-46-7422,C,Naypyitaw,Normal,Male,Credit card
+639-76-1242,C,Naypyitaw,Normal,Male,Cash
+234-03-4040,B,Mandalay,Member,Female,Credit card
+326-71-2155,C,Naypyitaw,Normal,Female,Cash
+320-32-8842,C,Naypyitaw,Member,Female,Cash
+470-32-9057,A,Yangon,Member,Male,Credit card
+878-30-2331,C,Naypyitaw,Member,Female,Credit card
+440-59-5691,C,Naypyitaw,Member,Female,Credit card
+554-53-3790,B,Mandalay,Normal,Male,Cash
+746-19-0921,C,Naypyitaw,Normal,Male,Ewallet
+233-34-0817,C,Naypyitaw,Member,Female,Cash
+767-05-1286,C,Naypyitaw,Member,Female,Ewallet
+340-21-9136,A,Yangon,Member,Female,Cash
+405-31-3305,A,Yangon,Member,Male,Credit card
+731-59-7531,B,Mandalay,Member,Male,Cash
+676-39-6028,A,Yangon,Member,Female,Cash
+502-05-1910,A,Yangon,Normal,Male,Credit card
+485-30-8700,A,Yangon,Normal,Female,Credit card
+598-47-9715,C,Naypyitaw,Normal,Male,Ewallet
+701-69-8742,B,Mandalay,Normal,Male,Ewallet
+575-67-1508,A,Yangon,Normal,Male,Ewallet
+541-08-3113,C,Naypyitaw,Normal,Male,Cash
+246-11-3901,C,Naypyitaw,Normal,Female,Cash
+674-15-9296,A,Yangon,Normal,Male,Ewallet
+305-18-3552,B,Mandalay,Member,Male,Cash
+493-65-6248,C,Naypyitaw,Member,Female,Credit card
+438-01-4015,B,Mandalay,Member,Female,Ewallet
+709-58-4068,B,Mandalay,Normal,Female,Cash
+795-49-7276,A,Yangon,Normal,Male,Ewallet
+556-72-8512,C,Naypyitaw,Normal,Male,Cash
+627-95-3243,B,Mandalay,Member,Female,Ewallet
+686-41-0932,B,Mandalay,Normal,Female,Ewallet
+510-09-5628,A,Yangon,Member,Female,Credit card
+608-04-3797,B,Mandalay,Member,Female,Ewallet
+148-82-2527,C,Naypyitaw,Member,Female,Credit card
+437-53-3084,B,Mandalay,Normal,Male,Ewallet
+632-32-4574,B,Mandalay,Normal,Male,Cash
+556-97-7101,C,Naypyitaw,Normal,Female,Cash
+862-59-8517,C,Naypyitaw,Normal,Female,Cash
+401-18-8016,B,Mandalay,Member,Female,Cash
+420-18-8989,A,Yangon,Member,Female,Cash
+277-63-2961,B,Mandalay,Member,Male,Credit card
+573-98-8548,C,Naypyitaw,Member,Female,Ewallet
+620-02-2046,C,Naypyitaw,Normal,Male,Ewallet
+282-35-2475,B,Mandalay,Normal,Female,Cash
+511-54-3087,B,Mandalay,Normal,Male,Credit card
+726-29-6793,A,Yangon,Member,Male,Ewallet
+387-49-4215,B,Mandalay,Member,Female,Cash
+862-17-9201,B,Mandalay,Normal,Female,Credit card
+291-21-5991,B,Mandalay,Member,Male,Cash
+602-80-9671,C,Naypyitaw,Member,Female,Credit card
+347-72-6115,B,Mandalay,Member,Female,Credit card
+209-61-0206,A,Yangon,Normal,Female,Ewallet
+595-27-4851,A,Yangon,Normal,Female,Ewallet
+189-52-0236,A,Yangon,Normal,Male,Cash
+503-07-0930,C,Naypyitaw,Member,Male,Credit card
+413-20-6708,C,Naypyitaw,Member,Female,Ewallet
+425-85-2085,B,Mandalay,Member,Male,Ewallet
+521-18-7827,C,Naypyitaw,Member,Male,Credit card
+220-28-1851,A,Yangon,Normal,Male,Ewallet
+600-38-9738,C,Naypyitaw,Member,Male,Credit card
+734-91-1155,B,Mandalay,Normal,Female,Credit card
+451-28-5717,C,Naypyitaw,Member,Female,Cash
+609-81-8548,A,Yangon,Member,Female,Credit card
+133-14-7229,C,Naypyitaw,Normal,Male,Cash
+534-01-4457,A,Yangon,Normal,Male,Credit card
+719-89-8991,A,Yangon,Member,Female,Ewallet
+286-62-6248,B,Mandalay,Normal,Male,Credit card
+339-38-9982,B,Mandalay,Member,Male,Ewallet
+827-44-5872,B,Mandalay,Member,Female,Credit card
+827-77-7633,A,Yangon,Normal,Male,Cash
+287-83-1405,A,Yangon,Normal,Male,Ewallet
+435-13-4908,A,Yangon,Member,Male,Credit card
+857-67-9057,B,Mandalay,Normal,Male,Ewallet
+236-27-1144,C,Naypyitaw,Normal,Female,Ewallet
+892-05-6689,A,Yangon,Normal,Female,Ewallet
+583-41-4548,C,Naypyitaw,Normal,Male,Ewallet
+339-12-4827,B,Mandalay,Member,Female,Credit card
+643-38-7867,A,Yangon,Normal,Male,Ewallet
+308-81-0538,A,Yangon,Normal,Female,Credit card
+358-88-9262,C,Naypyitaw,Member,Female,Ewallet
+460-35-4390,A,Yangon,Normal,Male,Ewallet
+343-87-0864,C,Naypyitaw,Member,Male,Credit card
+173-50-1108,B,Mandalay,Member,Female,Credit card
+243-47-2663,C,Naypyitaw,Member,Male,Credit card
+841-18-8232,B,Mandalay,Normal,Female,Credit card
+701-23-5550,B,Mandalay,Member,Male,Ewallet
+647-50-1224,A,Yangon,Normal,Female,Ewallet
+541-48-8554,A,Yangon,Normal,Male,Credit card
+539-21-7227,B,Mandalay,Normal,Female,Cash
+213-32-1216,A,Yangon,Normal,Female,Cash
+747-58-7183,B,Mandalay,Normal,Male,Ewallet
+582-52-8065,B,Mandalay,Normal,Female,Cash
+210-57-1719,B,Mandalay,Normal,Female,Cash
+399-69-4630,C,Naypyitaw,Normal,Male,Credit card
+134-75-2619,A,Yangon,Member,Male,Cash
+356-44-8813,B,Mandalay,Normal,Male,Credit card
+198-66-9832,B,Mandalay,Member,Female,Cash
+283-26-5248,C,Naypyitaw,Member,Female,Ewallet
+712-39-0363,A,Yangon,Member,Male,Ewallet
+218-59-9410,A,Yangon,Member,Female,Ewallet
+174-75-0888,B,Mandalay,Normal,Male,Cash
+866-99-7614,C,Naypyitaw,Normal,Male,Credit card
+134-54-4720,B,Mandalay,Normal,Female,Ewallet
+760-90-2357,A,Yangon,Member,Male,Ewallet
+514-37-2845,B,Mandalay,Normal,Male,Cash
+698-98-5964,A,Yangon,Normal,Female,Credit card
+718-57-9773,C,Naypyitaw,Normal,Female,Credit card
+651-88-7328,A,Yangon,Normal,Female,Cash
+241-11-2261,B,Mandalay,Normal,Female,Credit card
+408-26-9866,C,Naypyitaw,Normal,Female,Ewallet
+834-83-1826,B,Mandalay,Member,Female,Credit card
+343-61-3544,B,Mandalay,Member,Male,Cash
+239-48-4278,A,Yangon,Member,Male,Ewallet
+355-34-6244,B,Mandalay,Normal,Male,Credit card
+550-84-8664,A,Yangon,Normal,Male,Credit card
+339-96-8318,B,Mandalay,Member,Male,Ewallet
+458-61-0011,B,Mandalay,Normal,Male,Cash
+592-34-6155,C,Naypyitaw,Normal,Male,Ewallet
+797-88-0493,A,Yangon,Normal,Female,Cash
+207-73-1363,B,Mandalay,Normal,Male,Ewallet
+390-31-6381,C,Naypyitaw,Normal,Male,Cash
+443-82-0585,A,Yangon,Member,Female,Cash
+339-18-7061,C,Naypyitaw,Member,Female,Credit card
+359-90-3665,B,Mandalay,Member,Female,Credit card
+375-72-3056,B,Mandalay,Normal,Male,Ewallet
+127-47-6963,A,Yangon,Normal,Male,Credit card
+278-86-2735,A,Yangon,Normal,Female,Cash
+695-28-6250,A,Yangon,Normal,Female,Ewallet
+379-17-6588,C,Naypyitaw,Normal,Male,Cash
+227-50-3718,A,Yangon,Normal,Male,Cash
+302-15-2162,C,Naypyitaw,Member,Male,Credit card
+788-07-8452,C,Naypyitaw,Member,Female,Ewallet
+560-49-6611,A,Yangon,Member,Female,Cash
+880-35-0356,A,Yangon,Member,Female,Ewallet
+585-11-6748,B,Mandalay,Member,Male,Cash
+470-31-3286,B,Mandalay,Normal,Male,Credit card
+152-68-2907,A,Yangon,Normal,Male,Credit card
+123-35-4896,C,Naypyitaw,Normal,Female,Ewallet
+258-69-7810,C,Naypyitaw,Normal,Female,Cash
+334-64-2006,A,Yangon,Member,Female,Ewallet
+219-61-4139,C,Naypyitaw,Normal,Male,Ewallet
+881-41-7302,C,Naypyitaw,Normal,Female,Credit card
+373-09-4567,C,Naypyitaw,Normal,Male,Ewallet
+642-30-6693,B,Mandalay,Normal,Female,Ewallet
+484-22-8230,C,Naypyitaw,Member,Female,Cash
+830-58-2383,B,Mandalay,Normal,Male,Cash
+559-98-9873,A,Yangon,Member,Female,Ewallet
+544-32-5024,C,Naypyitaw,Member,Female,Credit card
+318-12-0304,A,Yangon,Normal,Male,Ewallet
+349-97-8902,B,Mandalay,Member,Male,Ewallet
+421-95-9805,A,Yangon,Normal,Female,Credit card
+277-35-5865,C,Naypyitaw,Member,Female,Cash
+789-23-8625,B,Mandalay,Member,Male,Cash
+284-54-4231,C,Naypyitaw,Member,Male,Credit card
+443-59-0061,A,Yangon,Member,Male,Ewallet
+509-29-3912,A,Yangon,Member,Female,Ewallet
+327-40-9673,B,Mandalay,Member,Male,Cash
+840-19-2096,C,Naypyitaw,Member,Male,Ewallet
+828-46-6863,A,Yangon,Member,Male,Credit card
+641-96-3695,C,Naypyitaw,Member,Female,Ewallet
+420-97-3340,A,Yangon,Normal,Female,Credit card
+436-54-4512,A,Yangon,Member,Female,Cash
+670-79-6321,B,Mandalay,Member,Female,Credit card
+852-62-7105,B,Mandalay,Normal,Female,Credit card
+598-06-7312,B,Mandalay,Member,Male,Cash
+135-13-8269,B,Mandalay,Member,Female,Cash
+816-57-2053,A,Yangon,Normal,Male,Ewallet
+628-90-8624,B,Mandalay,Member,Male,Cash
+856-66-2701,A,Yangon,Member,Male,Ewallet
+308-39-1707,A,Yangon,Normal,Female,Credit card
+149-61-1929,A,Yangon,Normal,Male,Credit card
+655-07-2265,A,Yangon,Normal,Male,Ewallet
+589-02-8023,A,Yangon,Member,Male,Credit card
+420-04-7590,B,Mandalay,Normal,Male,Ewallet
+182-88-2763,B,Mandalay,Member,Male,Credit card
+188-55-0967,B,Mandalay,Member,Male,Credit card
+610-46-4100,A,Yangon,Normal,Male,Credit card
+318-81-2368,C,Naypyitaw,Normal,Female,Cash
+364-33-8584,B,Mandalay,Member,Female,Cash
+665-63-9737,B,Mandalay,Normal,Male,Ewallet
+695-09-5146,B,Mandalay,Member,Female,Ewallet
+155-45-3814,C,Naypyitaw,Member,Female,Ewallet
+794-32-2436,B,Mandalay,Member,Male,Ewallet
+131-15-8856,C,Naypyitaw,Member,Female,Credit card
+273-84-2164,C,Naypyitaw,Member,Male,Ewallet
+706-36-6154,A,Yangon,Member,Male,Ewallet
+778-89-7974,C,Naypyitaw,Normal,Male,Cash
+574-31-8277,B,Mandalay,Member,Male,Cash
+859-71-0933,C,Naypyitaw,Member,Female,Cash
+740-11-5257,C,Naypyitaw,Normal,Male,Cash
+369-82-2676,B,Mandalay,Normal,Male,Ewallet
+563-47-4072,B,Mandalay,Normal,Female,Cash
+742-04-5161,A,Yangon,Member,Male,Cash
+149-15-7606,B,Mandalay,Member,Male,Ewallet
+133-77-3154,B,Mandalay,Member,Male,Credit card
+169-52-4504,A,Yangon,Normal,Female,Credit card
+250-81-7186,C,Naypyitaw,Normal,Female,Credit card
+562-12-5430,A,Yangon,Member,Female,Ewallet
+816-72-8853,A,Yangon,Member,Female,Cash
+491-38-3499,A,Yangon,Member,Male,Credit card
+322-02-2271,B,Mandalay,Normal,Female,Cash
+842-29-4695,C,Naypyitaw,Member,Male,Credit card
+725-67-2480,B,Mandalay,Member,Female,Credit card
+641-51-2661,C,Naypyitaw,Member,Female,Credit card
+714-02-3114,C,Naypyitaw,Normal,Female,Cash
+518-17-2983,A,Yangon,Normal,Female,Ewallet
+779-42-2410,B,Mandalay,Member,Male,Ewallet
+190-14-3147,B,Mandalay,Normal,Female,Ewallet
+408-66-6712,C,Naypyitaw,Member,Female,Ewallet
+679-22-6530,B,Mandalay,Normal,Female,Credit card
+588-47-8641,A,Yangon,Member,Male,Ewallet
+642-61-4706,B,Mandalay,Member,Male,Cash
+576-31-4774,B,Mandalay,Normal,Female,Ewallet
+556-41-6224,C,Naypyitaw,Normal,Male,Credit card
+811-03-8790,A,Yangon,Normal,Female,Credit card
+242-11-3142,B,Mandalay,Member,Male,Cash
+752-23-3760,B,Mandalay,Member,Female,Credit card
+274-05-5470,A,Yangon,Member,Female,Cash
+648-94-3045,C,Naypyitaw,Normal,Male,Ewallet
+130-67-4723,A,Yangon,Member,Male,Ewallet
+528-87-5606,B,Mandalay,Member,Female,Cash
+320-85-2052,B,Mandalay,Normal,Female,Credit card
+370-96-0655,C,Naypyitaw,Normal,Female,Ewallet
+105-10-6182,A,Yangon,Member,Male,Ewallet
+510-79-0415,B,Mandalay,Member,Female,Ewallet
+241-96-5076,B,Mandalay,Member,Female,Credit card
+767-97-4650,B,Mandalay,Member,Female,Credit card
+648-83-1321,A,Yangon,Member,Male,Cash
+173-57-2300,C,Naypyitaw,Member,Male,Cash
+305-03-2383,A,Yangon,Normal,Female,Cash
+394-55-6384,C,Naypyitaw,Member,Female,Cash
+266-20-6657,C,Naypyitaw,Member,Male,Ewallet
+689-05-1884,A,Yangon,Member,Male,Cash
+196-01-2849,C,Naypyitaw,Member,Female,Cash
+372-62-5264,C,Naypyitaw,Normal,Female,Cash
+800-09-8606,A,Yangon,Member,Female,Cash
+182-52-7000,A,Yangon,Member,Female,Ewallet
+826-58-8051,B,Mandalay,Normal,Male,Ewallet
+868-06-0466,A,Yangon,Member,Male,Credit card
+751-41-9720,C,Naypyitaw,Normal,Male,Ewallet
+626-43-7888,C,Naypyitaw,Normal,Female,Ewallet
+176-64-7711,B,Mandalay,Normal,Male,Credit card
+191-29-0321,B,Mandalay,Member,Female,Credit card
+729-06-2010,B,Mandalay,Member,Male,Cash
+640-48-5028,B,Mandalay,Member,Female,Cash
+186-79-9562,B,Mandalay,Normal,Male,Cash
+834-45-5519,B,Mandalay,Normal,Female,Ewallet
+162-65-8559,C,Naypyitaw,Member,Male,Cash
+760-27-5490,C,Naypyitaw,Normal,Male,Ewallet
+445-30-9252,A,Yangon,Normal,Male,Ewallet
+786-94-2700,A,Yangon,Member,Male,Cash
+728-88-7867,C,Naypyitaw,Member,Female,Ewallet
+183-21-3799,C,Naypyitaw,Normal,Female,Ewallet
+268-20-3585,C,Naypyitaw,Normal,Female,Ewallet
+735-32-9839,C,Naypyitaw,Member,Male,Ewallet
+258-92-7466,A,Yangon,Normal,Female,Credit card
+857-16-3520,A,Yangon,Member,Female,Ewallet
+482-17-1179,A,Yangon,Member,Male,Credit card
+788-21-5741,A,Yangon,Normal,Male,Credit card
+821-14-9046,B,Mandalay,Member,Female,Credit card
+418-05-0656,B,Mandalay,Normal,Female,Cash
+678-79-0726,C,Naypyitaw,Member,Female,Cash
+776-68-1096,B,Mandalay,Normal,Male,Credit card
+592-46-1692,C,Naypyitaw,Member,Female,Cash
+434-35-9162,B,Mandalay,Member,Male,Ewallet
+149-14-0304,C,Naypyitaw,Member,Female,Cash
+442-44-6497,C,Naypyitaw,Member,Male,Credit card
+174-64-0215,B,Mandalay,Normal,Male,Credit card
+210-74-9613,C,Naypyitaw,Normal,Male,Ewallet
+299-29-0180,B,Mandalay,Member,Female,Cash
+247-11-2470,A,Yangon,Member,Female,Credit card
+635-28-5728,A,Yangon,Normal,Male,Ewallet
+756-49-0168,A,Yangon,Member,Male,Ewallet
+438-23-1242,B,Mandalay,Normal,Male,Ewallet
+238-45-6950,B,Mandalay,Member,Male,Ewallet
+607-65-2441,C,Naypyitaw,Member,Male,Credit card
+386-27-7606,C,Naypyitaw,Member,Female,Credit card
+137-63-5492,C,Naypyitaw,Normal,Male,Ewallet
+197-77-7132,B,Mandalay,Member,Male,Ewallet
+805-86-0265,A,Yangon,Normal,Male,Cash
+733-29-1227,C,Naypyitaw,Normal,Male,Cash
+451-73-2711,C,Naypyitaw,Normal,Male,Ewallet
+373-14-0504,A,Yangon,Member,Female,Ewallet
+546-80-2899,A,Yangon,Member,Male,Ewallet
+345-68-9016,C,Naypyitaw,Member,Female,Credit card
+390-17-5806,C,Naypyitaw,Member,Female,Cash
+457-13-1708,B,Mandalay,Member,Male,Credit card
+664-14-2882,C,Naypyitaw,Member,Female,Credit card
+487-79-6868,B,Mandalay,Member,Female,Credit card
+314-23-4520,C,Naypyitaw,Member,Male,Cash
+210-30-7976,B,Mandalay,Member,Female,Ewallet
+585-86-8361,A,Yangon,Normal,Female,Credit card
+807-14-7833,A,Yangon,Member,Female,Ewallet
+775-72-1988,B,Mandalay,Normal,Male,Ewallet
+288-38-3758,C,Naypyitaw,Member,Female,Ewallet
+652-43-6591,A,Yangon,Normal,Female,Credit card
+785-96-0615,B,Mandalay,Member,Female,Ewallet
+406-46-7107,A,Yangon,Normal,Female,Cash
+250-17-5703,A,Yangon,Member,Male,Ewallet
+156-95-3964,A,Yangon,Normal,Female,Ewallet
+842-40-8179,B,Mandalay,Member,Female,Credit card
+525-09-8450,B,Mandalay,Normal,Male,Credit card
+410-67-1709,A,Yangon,Member,Female,Ewallet
+587-73-4862,A,Yangon,Member,Female,Ewallet
+787-87-2010,A,Yangon,Member,Male,Credit card
+593-14-4239,B,Mandalay,Normal,Female,Ewallet
+801-88-0346,C,Naypyitaw,Normal,Female,Credit card
+388-76-2555,B,Mandalay,Normal,Male,Cash
+711-31-1234,B,Mandalay,Normal,Female,Cash
+886-54-6089,A,Yangon,Normal,Female,Cash
+707-32-7409,B,Mandalay,Member,Female,Ewallet
+759-98-4285,C,Naypyitaw,Member,Female,Credit card
+201-63-8275,C,Naypyitaw,Member,Female,Ewallet
+471-06-8611,C,Naypyitaw,Normal,Female,Credit card
+200-16-5952,C,Naypyitaw,Member,Male,Cash
+120-54-2248,B,Mandalay,Normal,Female,Credit card
+102-77-2261,C,Naypyitaw,Member,Male,Credit card
+875-31-8302,B,Mandalay,Normal,Male,Cash
+102-06-2002,C,Naypyitaw,Member,Male,Cash
+457-94-0464,B,Mandalay,Member,Male,Ewallet
+629-42-4133,C,Naypyitaw,Normal,Male,Cash
+534-53-3526,A,Yangon,Normal,Female,Ewallet
+307-04-2070,A,Yangon,Member,Female,Credit card
+468-99-7231,C,Naypyitaw,Normal,Female,Cash
+516-77-6464,C,Naypyitaw,Member,Female,Ewallet
+404-91-5964,A,Yangon,Normal,Male,Credit card
+886-77-9084,C,Naypyitaw,Normal,Male,Ewallet
+790-38-4466,C,Naypyitaw,Normal,Female,Credit card
+704-10-4056,C,Naypyitaw,Member,Male,Credit card
+497-37-6538,A,Yangon,Normal,Male,Ewallet
+651-96-5970,A,Yangon,Normal,Male,Credit card
+400-80-4065,C,Naypyitaw,Member,Male,Credit card
+744-16-7898,B,Mandalay,Normal,Female,Credit card
+263-12-5321,A,Yangon,Member,Male,Credit card
+702-72-0487,A,Yangon,Normal,Female,Credit card
+605-83-1050,B,Mandalay,Normal,Male,Ewallet
+443-60-9639,C,Naypyitaw,Member,Female,Cash
+864-24-7918,A,Yangon,Member,Female,Cash
+359-94-5395,B,Mandalay,Normal,Male,Credit card
+401-09-4232,C,Naypyitaw,Member,Male,Ewallet
+751-15-6198,B,Mandalay,Normal,Male,Ewallet
+324-41-6833,C,Naypyitaw,Member,Female,Ewallet
+474-33-8305,C,Naypyitaw,Member,Male,Ewallet
+759-29-9521,A,Yangon,Member,Female,Cash
+831-81-6575,B,Mandalay,Member,Female,Cash
+220-68-6701,A,Yangon,Normal,Female,Cash
+618-34-8551,A,Yangon,Normal,Female,Credit card
+257-60-7754,A,Yangon,Normal,Female,Cash
+559-61-5987,B,Mandalay,Normal,Female,Cash
+189-55-2313,C,Naypyitaw,Normal,Female,Ewallet
+565-91-4567,B,Mandalay,Normal,Male,Ewallet
+380-60-5336,A,Yangon,Normal,Female,Credit card
+815-04-6282,C,Naypyitaw,Member,Female,Credit card
+674-56-6360,A,Yangon,Normal,Male,Cash
+778-34-2523,A,Yangon,Member,Female,Cash
+499-27-7781,B,Mandalay,Normal,Female,Ewallet
+477-59-2456,C,Naypyitaw,Normal,Female,Cash
+832-51-6761,A,Yangon,Normal,Male,Ewallet
+869-11-3082,B,Mandalay,Member,Male,Credit card
+190-59-3964,B,Mandalay,Member,Male,Credit card
+366-43-6862,B,Mandalay,Normal,Male,Ewallet
+186-43-8965,A,Yangon,Member,Female,Credit card
+784-21-9238,C,Naypyitaw,Member,Male,Cash
+276-75-6884,A,Yangon,Normal,Female,Cash
+109-86-4363,B,Mandalay,Member,Female,Credit card
+569-76-2760,A,Yangon,Member,Female,Credit card
+222-42-0244,B,Mandalay,Member,Female,Credit card
+760-53-9233,A,Yangon,Member,Male,Credit card
+538-22-0304,C,Naypyitaw,Normal,Male,Cash
+416-17-9926,A,Yangon,Member,Female,Credit card
+237-44-6163,A,Yangon,Normal,Male,Cash
+636-17-0325,B,Mandalay,Normal,Male,Cash
+343-75-9322,B,Mandalay,Member,Female,Cash
+528-14-9470,A,Yangon,Member,Male,Ewallet
+427-45-9297,B,Mandalay,Member,Female,Ewallet
+807-34-3742,A,Yangon,Normal,Male,Cash
+288-62-1085,A,Yangon,Member,Male,Ewallet
+670-71-7306,B,Mandalay,Normal,Male,Credit card
+660-29-7083,C,Naypyitaw,Normal,Male,Cash
+271-77-8740,C,Naypyitaw,Member,Female,Ewallet
+497-36-0989,A,Yangon,Normal,Male,Cash
+291-59-1384,B,Mandalay,Normal,Male,Cash
+860-73-6466,A,Yangon,Member,Female,Credit card
+549-23-9016,C,Naypyitaw,Member,Female,Credit card
+896-34-0956,A,Yangon,Normal,Male,Cash
+804-38-3935,A,Yangon,Member,Male,Credit card
+585-90-0249,A,Yangon,Member,Male,Ewallet
+862-29-5914,C,Naypyitaw,Normal,Female,Credit card
+845-94-6841,C,Naypyitaw,Member,Female,Cash
+125-45-2293,A,Yangon,Normal,Female,Cash
+843-73-4724,A,Yangon,Normal,Male,Cash
+409-33-9708,A,Yangon,Normal,Female,Ewallet
+658-66-3967,C,Naypyitaw,Normal,Male,Ewallet
+866-70-2814,B,Mandalay,Normal,Female,Ewallet
+160-22-2687,A,Yangon,Member,Female,Ewallet
+895-03-6665,B,Mandalay,Normal,Female,Cash
+770-42-8960,B,Mandalay,Normal,Male,Cash
+748-45-2862,A,Yangon,Member,Female,Cash
+234-36-2483,B,Mandalay,Normal,Male,Cash
+316-66-3011,A,Yangon,Member,Female,Cash
+848-95-6252,C,Naypyitaw,Member,Female,Ewallet
+840-76-5966,A,Yangon,Member,Male,Ewallet
+152-03-4217,B,Mandalay,Normal,Female,Credit card
+533-66-5566,B,Mandalay,Normal,Female,Cash
+124-31-1458,A,Yangon,Member,Female,Cash
+176-78-1170,C,Naypyitaw,Member,Male,Ewallet
+361-59-0574,B,Mandalay,Member,Male,Credit card
+101-81-4070,C,Naypyitaw,Member,Female,Ewallet
+631-34-1880,C,Naypyitaw,Member,Male,Credit card
+852-82-2749,A,Yangon,Normal,Male,Ewallet
+873-14-6353,A,Yangon,Member,Male,Credit card
+584-66-4073,C,Naypyitaw,Normal,Male,Ewallet
+544-55-9589,B,Mandalay,Member,Female,Cash
+166-19-2553,A,Yangon,Member,Male,Cash
+737-88-5876,A,Yangon,Member,Male,Credit card
+154-87-7367,C,Naypyitaw,Normal,Male,Ewallet
+885-56-0389,C,Naypyitaw,Member,Male,Cash
+608-05-3804,B,Mandalay,Member,Male,Cash
+448-61-3783,A,Yangon,Normal,Female,Credit card
+761-49-0439,B,Mandalay,Member,Female,Ewallet
+490-95-0021,B,Mandalay,Member,Female,Ewallet
+115-38-7388,C,Naypyitaw,Member,Female,Credit card
+311-13-6971,B,Mandalay,Member,Male,Credit card
+291-55-6563,A,Yangon,Member,Female,Ewallet
+548-48-3156,A,Yangon,Member,Female,Cash
+460-93-5834,A,Yangon,Normal,Male,Cash
+325-89-4209,A,Yangon,Member,Male,Ewallet
+884-80-6021,A,Yangon,Member,Female,Ewallet
+137-74-8729,C,Naypyitaw,Normal,Female,Ewallet
+880-46-5796,A,Yangon,Member,Male,Ewallet
+389-70-2397,C,Naypyitaw,Normal,Female,Cash
+114-35-5271,B,Mandalay,Normal,Female,Cash
+607-76-6216,C,Naypyitaw,Member,Female,Credit card
+715-20-1673,B,Mandalay,Normal,Male,Cash
+811-35-1094,B,Mandalay,Member,Male,Credit card
+699-88-1972,B,Mandalay,Normal,Male,Credit card
+781-84-8059,C,Naypyitaw,Normal,Male,Ewallet
+409-49-6995,C,Naypyitaw,Member,Female,Cash
+725-54-0677,C,Naypyitaw,Member,Male,Cash
+146-09-5432,A,Yangon,Member,Male,Ewallet
+377-79-7592,C,Naypyitaw,Member,Female,Credit card
+509-10-0516,B,Mandalay,Normal,Male,Ewallet
+595-94-9924,A,Yangon,Member,Female,Credit card
+865-41-9075,A,Yangon,Normal,Male,Cash
+545-07-8534,C,Naypyitaw,Normal,Female,Ewallet
+118-62-1812,C,Naypyitaw,Member,Female,Cash
+450-42-3339,C,Naypyitaw,Normal,Male,Credit card
+851-98-3555,B,Mandalay,Normal,Female,Credit card
+186-71-5196,A,Yangon,Member,Female,Ewallet
+624-01-8356,B,Mandalay,Normal,Female,Credit card
+313-66-9943,B,Mandalay,Member,Female,Credit card
+151-27-8496,C,Naypyitaw,Normal,Female,Ewallet
+453-33-6436,A,Yangon,Normal,Female,Cash
+522-57-8364,A,Yangon,Member,Male,Ewallet
+459-45-2396,A,Yangon,Member,Female,Cash
+717-96-4189,C,Naypyitaw,Normal,Female,Cash
+722-13-2115,C,Naypyitaw,Member,Male,Credit card
+749-81-8133,A,Yangon,Normal,Female,Cash
+777-67-2495,B,Mandalay,Normal,Male,Ewallet
+636-98-3364,B,Mandalay,Member,Female,Ewallet
+246-55-6923,C,Naypyitaw,Member,Female,Credit card
+181-82-6255,B,Mandalay,Normal,Female,Cash
+838-02-1821,C,Naypyitaw,Member,Female,Credit card
+887-42-0517,C,Naypyitaw,Normal,Female,Credit card
+457-12-0244,C,Naypyitaw,Member,Female,Ewallet
+226-34-0034,B,Mandalay,Normal,Female,Ewallet
+321-49-7382,B,Mandalay,Member,Male,Credit card
+397-25-8725,A,Yangon,Member,Female,Credit card
+431-66-2305,B,Mandalay,Normal,Female,Credit card
+825-94-5922,B,Mandalay,Normal,Male,Ewallet
+641-62-7288,B,Mandalay,Normal,Male,Ewallet
+756-93-1854,C,Naypyitaw,Member,Female,Credit card
+243-55-8457,A,Yangon,Normal,Female,Ewallet
+458-10-8612,C,Naypyitaw,Normal,Male,Ewallet
+501-61-1753,B,Mandalay,Normal,Female,Ewallet
+235-06-8510,C,Naypyitaw,Member,Male,Ewallet
+433-08-7822,C,Naypyitaw,Normal,Female,Ewallet
+361-85-2571,A,Yangon,Normal,Female,Cash
+131-70-8179,A,Yangon,Member,Female,Cash
+500-02-2261,C,Naypyitaw,Normal,Female,Ewallet
+720-72-2436,A,Yangon,Normal,Male,Ewallet
+702-83-5291,C,Naypyitaw,Member,Male,Cash
+809-69-9497,A,Yangon,Normal,Female,Ewallet
+449-16-6770,A,Yangon,Normal,Male,Credit card
+333-23-2632,A,Yangon,Member,Male,Cash
+489-82-1237,A,Yangon,Normal,Female,Credit card
+859-97-6048,C,Naypyitaw,Member,Male,Credit card
+676-10-2200,B,Mandalay,Member,Male,Ewallet
+373-88-1424,C,Naypyitaw,Member,Male,Ewallet
+365-16-4334,B,Mandalay,Normal,Female,Ewallet
+503-21-4385,B,Mandalay,Member,Male,Ewallet
+305-89-2768,B,Mandalay,Member,Female,Ewallet
+574-80-1489,B,Mandalay,Member,Female,Ewallet
+784-08-0310,C,Naypyitaw,Member,Female,Cash
+200-40-6154,B,Mandalay,Member,Male,Cash
+846-10-0341,A,Yangon,Normal,Female,Cash
+577-34-7579,C,Naypyitaw,Member,Male,Cash
+430-02-3888,B,Mandalay,Normal,Male,Cash
+867-47-1948,C,Naypyitaw,Normal,Female,Cash
+384-59-6655,A,Yangon,Member,Female,Cash
+256-58-3609,C,Naypyitaw,Member,Male,Cash
+324-92-3863,A,Yangon,Member,Male,Cash
+593-08-5916,A,Yangon,Normal,Female,Credit card
+364-34-2972,C,Naypyitaw,Member,Male,Cash
+794-42-3736,B,Mandalay,Normal,Male,Credit card
+172-42-8274,B,Mandalay,Normal,Female,Credit card
+558-60-5016,A,Yangon,Normal,Female,Ewallet
+195-06-0432,A,Yangon,Member,Male,Credit card
+605-03-2706,A,Yangon,Normal,Female,Cash
+214-30-2776,B,Mandalay,Member,Female,Credit card
+746-04-1077,B,Mandalay,Member,Female,Credit card
+448-34-8700,B,Mandalay,Member,Male,Ewallet
+452-04-8808,B,Mandalay,Normal,Male,Cash
+531-56-4728,A,Yangon,Normal,Male,Cash
+744-82-9138,C,Naypyitaw,Normal,Male,Cash
+883-69-1285,B,Mandalay,Member,Male,Credit card
+221-25-5073,A,Yangon,Normal,Female,Cash
+518-71-6847,B,Mandalay,Member,Male,Ewallet
+156-20-0370,B,Mandalay,Normal,Female,Credit card
+151-33-7434,B,Mandalay,Normal,Female,Credit card
+728-47-9078,C,Naypyitaw,Member,Male,Cash
+809-46-1866,A,Yangon,Normal,Male,Cash
+139-32-4183,A,Yangon,Member,Female,Ewallet
+148-41-7930,C,Naypyitaw,Normal,Male,Cash
+189-40-5216,C,Naypyitaw,Normal,Male,Cash
+374-38-5555,B,Mandalay,Normal,Female,Ewallet
+764-44-8999,B,Mandalay,Normal,Female,Ewallet
+552-44-5977,B,Mandalay,Member,Male,Credit card
+267-62-7380,C,Naypyitaw,Member,Male,Ewallet
+430-53-4718,B,Mandalay,Member,Male,Credit card
+886-18-2897,A,Yangon,Normal,Female,Credit card
+602-16-6955,B,Mandalay,Normal,Female,Ewallet
+745-74-0715,A,Yangon,Normal,Male,Ewallet
+690-01-6631,B,Mandalay,Normal,Male,Ewallet
+652-49-6720,C,Naypyitaw,Member,Female,Ewallet
+233-67-5758,C,Naypyitaw,Normal,Male,Ewallet
+303-96-2227,B,Mandalay,Normal,Female,Ewallet
+727-02-1313,A,Yangon,Member,Male,Cash
+347-56-2442,A,Yangon,Normal,Male,Cash
+849-09-3807,A,Yangon,Member,Female,Cash
